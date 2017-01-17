@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Liquidity Algo\bin\Debug\LiquidityAlgo.exe.config
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.Properties.Resources.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Liquidity Algo\bin\Debug\LiquidityAlgo.exe
+C:\Users\Admin\Desktop\Liquidity Algo\bin\Debug\LiquidityAlgo.pdb
+C:\Users\Admin\Desktop\Liquidity Algo\bin\Debug\Interop.SterlingLib.dll
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.AutoProfit.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.AutoProfitTest.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.Form1.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.Form2.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.Manager.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.RangePicker.resources
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.exe
+C:\Users\Admin\Desktop\Liquidity Algo\obj\x86\Debug\LiquidityAlgo.pdb
